@@ -1,5 +1,16 @@
 # Smithy Language Server Changelog
 
+## 0.8.1 (2026-04-28)
+
+### Bug fixes
+* Updated GitHub Actions to v4 and fixed macOS ARM CI runner ([#251](https://github.com/smithy-lang/smithy-language-server/pull/251))
+* Corrected Smithy version check URL to `smithy-lang/smithy` ([#251](https://github.com/smithy-lang/smithy-language-server/pull/251))
+
+### Other
+* Updated Smithy version to 1.69.0
+* Scoped down GitHub Token permissions ([#241](https://github.com/smithy-lang/smithy-language-server/pull/241))
+* Changed deploy repository to mavenCentral ([#239](https://github.com/smithy-lang/smithy-language-server/pull/239))
+
 ## 0.8.0 (2025-10-08)
 
 ### Breaking
